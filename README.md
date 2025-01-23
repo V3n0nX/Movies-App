@@ -43,10 +43,10 @@
 
 <ol>
   <li>Clone the repository</li>
-  <li>Install dependencies with  ```bash npm install</li>
-  <li>Replace the `API_URL` with your own OMDb API key in the code:</li>
-  `const API_URL = "http://www.omdbapi.com/?apikey=YOUR_API_KEY&";`
-  <li>Start the app with `npm start`</li>
+  <li>Install dependencies with "npm install"</li>
+  <li>Replace the "API_URL" with your own OMDb API key in the code:</li>
+  "const API_URL = "http://www.omdbapi.com/?apikey=YOUR_API_KEY&";"
+  <li>Start the app with "npm start"</li>
 </ol>
 
 
