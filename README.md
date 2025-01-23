@@ -12,7 +12,7 @@
 <div align="center">
   <h1 align="center">MovieLand 🎥</h1>
   <p>
-    <b>MovieLand</b> is a React-based movie search app that allows users to explore movies by fetching data from the OMDb API. 
+    <b>MovieLand</b> is a React-based movie search app that allows users to explore movies by fetching data from the <b>OMDb API</b>. 
     Users can search for movies by title and view key details such as the movie's title, release year, type, and poster.
   </p>
 </div>
