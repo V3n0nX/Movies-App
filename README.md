@@ -44,7 +44,7 @@
 <ol>
   <li>Clone the repository</li>
   <li>Install dependencies with <code>npm install</code></li>
-  <li>Replace the "API_URL" with your own OMDb API key in the code:</li>
+  <li>Replace the <code>API_URL</code> with your own OMDb API key in the code:</li>
 </ol>
 
 ```javascript
