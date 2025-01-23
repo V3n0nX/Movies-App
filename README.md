@@ -28,7 +28,7 @@
 
 ![MovieLand preview](./movieland_prev1.png)
 
----
+
 
 ### Technologies Used
 
